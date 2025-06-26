@@ -37,7 +37,7 @@
 ### orange-belt-activity1
 
 * name: First Orange belt Activity
-* description: 1st Orange belt Activity
+* description: Welcome to JavaScript! In this tutorial, you'll use `console.log()` to print messages and add comments to your code.
 * type: tutorial
 * tags: easy
 
