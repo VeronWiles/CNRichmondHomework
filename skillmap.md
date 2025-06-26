@@ -2,6 +2,7 @@
 * name: Code Ninjas Richmond At Home Work
 * description: This is a Test.
 * backgroundurl: https://raw.githubusercontent.com/VeronWiles/pxt-skillmap-sample-test/main/img/map/bg.png
+* tertiarycolor: #ffffff
 
 ## white-belt
 * name: White Belt Activities
