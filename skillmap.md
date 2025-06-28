@@ -3,6 +3,7 @@
 * description: Some tests that can be done at home to see how much you know of each level!
 * bannerUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/map/thumbnail.png
 * backgroundurl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/map/bg.png
+* secondarycolor: #50C878
 * tertiarycolor: #ffffff
 
 ## orange-belt
