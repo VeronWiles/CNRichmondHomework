@@ -29,17 +29,25 @@
 * url: https://github.com/VeronWiles/pxt-skillmap-sample-test/tutorials/white-belt/activity2 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
-## orange-belt
-* name: Orange Belt Activities
-* description: 2nd Track
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
+### white-belt-activity
 
-### orange-belt-activity1
-
-* name: First Orange belt Activity
-* description: Welcome to JavaScript! In this tutorial, you'll use `console.log()` to print messages and add comments to your code.
+* name: Second White Belt Activity
+* description: 2nd WB Activity
 * type: tutorial
 * tags: easy
 
-* url: https://github.com/VeronWiles/pxt-skillmap-sample-test/tutorials/orange-belt/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
+* url: https://github.com/VeronWiles/pxt-skillmap-sample-test/tutorials/white-belt/activity2 
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+
+## orange-belt
+* name: Orange Belt Challenges!
+* description: 2nd Track
+
+### orange-belt-activity1
+
+* name: Orange Belt Level 1 Challenge
+* description: Think you know Level 1? Try your hand at making a player and an enemy that bounces around!
+* type: tutorial
+
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/orange-belt/activity1
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/space/activity1.png
