@@ -1,4 +1,4 @@
-# cn-homework
+# sample
 * name: Code Ninjas Richmond At Home Work for IMPACT
 * description: Some tests that can be done at home to see how much you know of each level!
 * bannerUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/map/thumbnail.png
