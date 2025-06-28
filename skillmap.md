@@ -24,5 +24,14 @@
 * name: Orange Belt Level 2 Challenge
 * description: Think you know Level 2? Try your hand at making multiple scenes with comments!
 * type: tutorial
+* next: orange-belt-activity3
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/orange-belt/activity2
 * imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/orange/activity2.png
+
+### orange-belt-activity3
+
+* name: Orange Belt Level 3 Challenge
+* description: Think you know Level 3? Try your hand at using loops and conditionals to make projectiles!
+* type: tutorial
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/orange-belt/activity3
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/orange/activity3.png
