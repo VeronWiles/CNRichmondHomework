@@ -225,45 +225,34 @@ House.setPosition(124, 82)
 ```
 
 ## Part 1
-This time, we're going to make 2 different sprites, and rename them after we set a background color!
- - Start by setting the ``background color`` in the scene!
- - Make sure to ``set 2 seperate sprites`` and ``rename`` them!
- - Set both sprites' ``positions`` to different places on the screen!
+For this test, you're going to create 3 different sprites, but it's up to you to sequence them right! So lets create our player first.
+ - ``Create the player sprite`` and make sure  to ``rename`` it! 
+ - Then set it's ``position`` anywhere on the screen.
+ - After that, make sure to make it so the player can ``move the sprite with buttons``.
+ - And to stop it from leaving the screen, remmeber to add a ``stay in screen`` block!
+ - Dont forget to add a ``set background image`` and set it to any background you want!
 
 ~hint Hint! Only use if you're stuck!
-  Both the player sprite creation code and the set position code can be found in the Sprites tab! While the background color can be found in the Scene Tab!
+  The player creation, position, and stay in screen blocks can be found in the Sprites tab, and the background image can be found in the Scene tab!
 hint~
 
 ## Part 2
-Next we're going to set a custom textbox and text color for the first sprite!
- - Start by selecting a custom ``Dialog text color`` to make the text pop out!
- - After that, set the ``dialog frame`` to something unique for this sprite!
- - Lastly, we need a ``show long text`` to have the sprite actually say something! And dont forget to change it's ``layout``!
- - Remember all of these for the future, and have this sprite say the first part of your joke!
+Next, you're going to create the sprite that is behind the player in the game!
+ - ``Create the sprite`` and think about if you need to put the block above or below the player block to get it to appear behind in the game!
+ - Set it's position to anywhere in the game!
 
 ~hint Hint! Only use if you're stuck!
-  All of the dialog text blocks can be found in the Game tab! Remember all of these settings for whenever this sprite is talking!
+  If you want a sprite to appear behind another in your game, you put the set sprite code above the other sprite!
 hint~
 
 ## Part 3
-Now do the same but for the other sprite! Having them ask about the joke!
- - Set a new ``text color``, ``dialog frame``, and ``layout`` for this ``show long text``!
- - Have them ask about the joke inside of your ``show long text``!
- - Keep all of these settings in mind for whenever this sprite is talking!
- - For an extra challenge, try adding a third sprite with different settings if you can!
+Last, you're going to create the sprite that is in front of the player in the game!
+ - ``Create the sprite`` and think about if you need to put the block above or below the player block to get it to appear infront in the game!
+ - Set it's position to anywhere in the game!
 
 ~hint Hint! Only use if you're stuck!
-  Try to have enough to complete the whole joke! And try not ot have more sprites than 4.
-hint~
-
-## Part 4
-Finally, add more show long text blocks to complete the joke! And after the joke is done, play a screen effect!
- - Make sure to remember the settings you put for each sprite! (If the first sprite has orange text, when it's talking again it should have orange text!)
- - After the joke is complete, play a ``screen effect`` to show that it's all done!
-
-~hint Hint! Only use if you're stuck!
-  Screen effect can be found in the Scene tab!
+  If you want a sprite to appear infront of another in your game, you put the set sprite code below the other sprite!
 hint~
 
 ## Completed Challenge!
-Good job! You completed the challenge! Now if you're ready! You can head onto the Third White Belt Challenge!
+Good job! You completed the challenge! Now if you're ready! You can head onto the Fourth White Belt Challenge!

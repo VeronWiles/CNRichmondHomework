@@ -22,7 +22,7 @@
 ### white-belt-activity2
 
 * name: White Belt Level 2 Challenge
-* description: Think you know Level 1? Try your hand at making a player tell a joke to another player!
+* description: Think you know Level 2? Try your hand at making a player tell a joke to another player!
 * type: tutorial
 * next: white-belt-activity3
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity2
@@ -30,11 +30,56 @@
 
 ### white-belt-activity3
 
-* name: White Belt Level 2 Challenge
-* description: Think you know Level 1? Try your hand at making a player that can move above one object but under another!
+* name: White Belt Level 3 Challenge
+* description: Think you know Level 3? Try your hand at making a player that can move above one object but under another!
 * type: tutorial
+* next: white-belt-activity4
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity3
 * imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity3.png
+
+### white-belt-activity4
+
+* name: White Belt Level 4 Challenge
+* description: Think you know Level 4? Try your hand at 
+* type: tutorial
+* next: white-belt-activity5
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity4
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity4.png
+
+### white-belt-activity5
+
+* name: White Belt Level 5 Challenge
+* description: Think you know Level 5? Try your hand at 
+* type: tutorial
+* next: white-belt-activity6
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity5
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity5.png
+
+### white-belt-activity6
+
+* name: White Belt Level 6 Challenge
+* description: Think you know Level 6? Try your hand at 
+* type: tutorial
+* next: white-belt-activity7
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity6
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity6.png
+
+### white-belt-activity7
+
+* name: White Belt Level 7 Challenge
+* description: Think you know Level 7? Try your hand at 
+* type: tutorial
+* next: white-belt-activity8
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity7
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity7.png
+
+### white-belt-activity8
+
+* name: White Belt Level 8 Challenge
+* description: Think you know Level 8? Try your hand at 
+* type: tutorial
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity8
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity8.png
 
 ## orange-belt
 * name: Orange Belt Challenges!
