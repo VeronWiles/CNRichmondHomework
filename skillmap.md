@@ -13,10 +13,18 @@
 ### white-belt-activity1
 
 * name: White Belt Level 1 Challenge
-* description: Think you know Level 1? Try your hand at making a player and an enemy that bounces around!
+* description: Think you know Level 1? Try your hand at making a player to ask a riddle!
 * type: tutorial
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity1
-* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/orange/activity1.png
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity1.png
+
+### white-belt-activity2
+
+* name: White Belt Level 2 Challenge
+* description: Think you know Level 1? Try your hand at making a player to ask a riddle!
+* type: tutorial
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity2
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity2.png
 
 ## orange-belt
 * name: Orange Belt Challenges!
