@@ -6,13 +6,25 @@
 * secondarycolor: #50C878
 * tertiarycolor: #ffffff
 
+## white-belt
+* name: White Belt Challenges!
+* description: Use these levels to challenge your Orange Belt Knowledge!
+
+### white-belt-activity1
+
+* name: White Belt Level 1 Challenge
+* description: Think you know Level 1? Try your hand at making a player and an enemy that bounces around!
+* type: tutorial
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity1
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/orange/activity1.png
+
 ## orange-belt
 * name: Orange Belt Challenges!
 * description: Use these levels to challenge your Orange Belt Knowledge!
 
 ### orange-belt-activity1
 
-* name: Orange Belt Level 1 Challenge
+* name: Orange Belt Level 12 Challenge
 * description: Think you know Level 1? Try your hand at making a player and an enemy that bounces around!
 * type: tutorial
 * next: orange-belt-activity2
@@ -35,15 +47,3 @@
 * type: tutorial
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/orange-belt/activity3
 * imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/orange/activity3.png
-
-## white-belt
-* name: White Belt Challenges!
-* description: Use these levels to challenge your Orange Belt Knowledge!
-
-### white-belt-activity1
-
-* name: White Belt Level 1 Challenge
-* description: Think you know Level 1? Try your hand at making a player and an enemy that bounces around!
-* type: tutorial
-* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity1
-* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/orange/activity1.png
