@@ -239,7 +239,7 @@ hint~
 ## Part 2
 Next, you're going to create the sprite that is behind the player in the game!
  - ``Create the sprite`` and think about if you need to put the block above or below the player block to get it to appear behind in the game!
- - Set it's position to anywhere in the game!
+ - Set it's ``position`` to anywhere in the game!
 
 ~hint Hint! Only use if you're stuck!
   If you want a sprite to appear behind another in your game, you put the set sprite code above the other sprite!
@@ -248,7 +248,7 @@ hint~
 ## Part 3
 Last, you're going to create the sprite that is in front of the player in the game!
  - ``Create the sprite`` and think about if you need to put the block above or below the player block to get it to appear infront in the game!
- - Set it's position to anywhere in the game!
+ - Set it's ``position`` to anywhere in the game!
 
 ~hint Hint! Only use if you're stuck!
   If you want a sprite to appear infront of another in your game, you put the set sprite code below the other sprite!
