@@ -24,8 +24,17 @@
 * name: White Belt Level 2 Challenge
 * description: Think you know Level 1? Try your hand at making a player tell a joke to another player!
 * type: tutorial
+* next: white-belt-activity3
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity2
 * imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity2.png
+
+### white-belt-activity3
+
+* name: White Belt Level 2 Challenge
+* description: Think you know Level 1? Try your hand at making a player that can move above one object but under another!
+* type: tutorial
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity3
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity3.png
 
 ## orange-belt
 * name: Orange Belt Challenges!
@@ -33,7 +42,7 @@
 
 ### orange-belt-activity1
 
-* name: Orange Belt Level 12 Challenge
+* name: Orange Belt Level 1 Challenge
 * description: Think you know Level 1? Try your hand at making a player and an enemy that bounces around!
 * type: tutorial
 * next: orange-belt-activity2
