@@ -1,4 +1,4 @@
-# Orange Belt Level 1 Challenge
+# White Belt Level 1 Challenge
 
 ```blocks
 scene.setBackgroundColor(8)

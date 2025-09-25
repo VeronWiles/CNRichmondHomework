@@ -15,13 +15,14 @@
 * name: White Belt Level 1 Challenge
 * description: Think you know Level 1? Try your hand at making a player to ask a riddle!
 * type: tutorial
+* next: white-belt-activity2
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity1
 * imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity1.png
 
 ### white-belt-activity2
 
 * name: White Belt Level 2 Challenge
-* description: Think you know Level 1? Try your hand at making a player to ask a riddle!
+* description: Think you know Level 1? Try your hand at making a player tell a joke to another player!
 * type: tutorial
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity2
 * imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity2.png
