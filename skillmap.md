@@ -49,7 +49,7 @@
 ### white-belt-activity5
 
 * name: White Belt Level 5 Challenge
-* description: Think you know Level 5? Try your hand at 
+* description: Think you know Level 5? Try your hand at creating a simple game to collect as much as you can before time runs out!
 * type: tutorial
 * next: white-belt-activity6
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity5
