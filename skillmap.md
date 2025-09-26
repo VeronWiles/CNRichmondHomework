@@ -40,7 +40,7 @@
 ### white-belt-activity4
 
 * name: White Belt Level 4 Challenge
-* description: Think you know Level 4? Try your hand at 
+* description: Think you know Level 4? Try your hand at making a basic game to collect objects while an enemy chases you!
 * type: tutorial
 * next: white-belt-activity5
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity4
