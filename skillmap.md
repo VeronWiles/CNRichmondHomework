@@ -67,7 +67,7 @@
 ### white-belt-activity7
 
 * name: White Belt Level 7 Challenge
-* description: Think you know Level 7? Try your hand at 
+* description: Think you know Level 7? Try your hand at making a collecting game where food has a chance to be an enemy instead!
 * type: tutorial
 * next: white-belt-activity8
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity7
