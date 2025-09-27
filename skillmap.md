@@ -58,7 +58,7 @@
 ### white-belt-activity6
 
 * name: White Belt Level 6 Challenge
-* description: Think you know Level 6? Try your hand at 
+* description: Think you know Level 6? Try your hand at making a basic shoot upwards game!
 * type: tutorial
 * next: white-belt-activity7
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity6
