@@ -76,7 +76,7 @@
 ### white-belt-activity8
 
 * name: White Belt Level 8 Challenge
-* description: Think you know Level 8? Try your hand at 
+* description: Think you know Level 8? Try your hand at making your own game from scratch!
 * type: tutorial
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity8
 * imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity8.png
