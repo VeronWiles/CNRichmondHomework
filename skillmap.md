@@ -69,8 +69,17 @@
 * name: White Belt Level 7 Challenge
 * description: Think you know Level 7? Try your hand at making a collecting game where food has a chance to be an enemy instead!
 * type: tutorial
+* next: white-belt-activity8
 * url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity7
 * imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity7.png
+
+### white-belt-activity8
+
+* name: White Belt Level 8 Challenge
+* description: Think you know Level 8? Try your hand at 
+* type: tutorial
+* url: https://github.com/VeronWiles/CNRichmondHomework/tutorials/white-belt/activity8
+* imageUrl: https://raw.githubusercontent.com/VeronWiles/CNRichmondHomework/main/img/white/activity8.png
 
 ## orange-belt
 * name: Orange Belt Challenges!
